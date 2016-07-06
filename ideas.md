@@ -26,3 +26,17 @@ Northy:
 * 2nd hand light and sound
   * Knobe to adjust the light of different era 
   * Pay to entry space to experience the past
+* Fire cube (vs ice cube)
+
+Interested Ideas
+================
+* Nail idea --> the best is if the nail is standing alone -> 1260USD
+* Shawer head idea --> deeper theortical studies
+* Iron --> need specific idea
+* Mirror --> create a indoor moon
+* Lock
+
+Meaning of yudi
+---------------
+* Change the meaning of items
+* Remove or disable the original function of the item --> this would possibly create more story (phone out of battery example)

@@ -25,4 +25,7 @@ AltOption idea: 闸刀开关(SPDT switch)
 
 First Deliverable
 =================
-27th June, 10 ideas, Research
+Week 1: 27th June, 10 ideas, Research
+Week 2: Redefined the directions
+Week 3: 6th July, Communicated the ideas, fixed on 5 ideas to start on, clock idea is the most developed one
+
